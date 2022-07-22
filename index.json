@@ -1,7 +1,7 @@
 
 [
     {
-        "id":1,
+        "product_id":1,
         "product_name":"Mobiles",
         "state_id":1,
         "location_id":1,
@@ -10,7 +10,7 @@
         "brand":"asus"
     },
     {
-        "id":2,
+        "product_id":2,
         "product_name":"Computers & Laptops",
         "state_id":1,
         "location_id":1,
@@ -19,7 +19,7 @@
         "brand":"acer" 
     },
     {
-        "id":3,
+        "product_id":3,
         "product_name":"Fridges",
         "state_id":1,
         "location_id":1,
@@ -28,7 +28,7 @@
         "brand":"onida"
     },
     {
-        "id":4,
+        "product_id":4,
         "product_name":"Ac's",
         "state_id":1,
         "location_id":1,
@@ -37,7 +37,7 @@
         "brand":"voltas"
     },
     {
-        "id":5,
+        "product_id":5,
         "product_name":"Sofa",
         "location_id": 2,
         "state_id": 2,
@@ -46,7 +46,7 @@
         "brand":"trion" 
     },
     {
-        "id":6,
+        "product_id":6,
         "product_name":"Dining",
         "location_id": 2,
         "state_id": 2,
@@ -55,7 +55,7 @@
         "brand":"blywud" 
     },
     {
-        "id":7,
+        "product_id":7,
         "product_name":"Cot & Beds",
         "location_id": 2,
         "state_id": 2,
@@ -64,7 +64,7 @@
         "brand":"peps" 
     },
     {
-        "id":8,
+        "product_id":8,
         "product_name":"Household items",
         "location_id": 2,
         "state_id": 2,
@@ -73,7 +73,7 @@
         "brand":"mixedbrand" 
     },
     {
-        "id":9,
+        "product_id":9,
         "product_name":"Books",
         "location_id": 3,
         "state_id": 3,
@@ -82,7 +82,7 @@
         "brand":"mixedbrand" 
     },
     {
-        "id":10,
+        "product_id":10,
         "product_name":"Cricket kits",
         "location_id": 3,
         "state_id": 3,
@@ -91,7 +91,7 @@
         "brand":"nike" 
     },
     {
-        "id":11,
+        "product_id":11,
         "product_name":"indoor game kits",
         "location_id": 3,
         "state_id": 3,
@@ -100,7 +100,7 @@
         "brand":"jingalo" 
     },
     {
-        "id":12,
+        "product_id":12,
         "product_name":"Other Sport Equipments",
         "location_id": 3,
         "state_id": 3,
@@ -109,7 +109,7 @@
         "brand":"mixedbrand" 
     },
     {
-        "id":13,
+        "product_id":13,
         "product_name":"Micro cars",
         "location_id": 4,
         "state_id": 4,
@@ -118,7 +118,7 @@
         "brand":"tata" 
     },
     {
-        "id":14,
+        "product_id":14,
         "product_name":"CUV cars",
         "location_id": 4,
         "state_id": 4,
@@ -127,7 +127,7 @@
         "brand":"hyundai" 
     },
     {
-        "id":15,
+        "product_id":15,
         "product_name":"SUV cars",
         "location_id": 4,
         "state_id": 4,
@@ -136,7 +136,7 @@
         "brand":"benz" 
     },
     {
-        "id":16,
+        "product_id":16,
         "product_name":"Motorcycles & Scooters",
         "location_id": 4,
         "state_id": 4,
